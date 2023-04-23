@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23022" started-at="2023-04-23T07:16:13Z" finished-at="2023-04-23T07:16:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23022" started-at="2023-04-23T07:16:13Z" finished-at="2023-04-23T07:16:36Z">
+      <class name="testcases.LoginTest">
+        <test-method status="PASS" signature="ReportSetup()[pri:0, instance:testcases.LoginTest@20d28811]" name="ReportSetup" is-config="true" duration-ms="1236" started-at="2023-04-23T07:16:13Z" finished-at="2023-04-23T07:16:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportSetup -->
+        <test-method status="PASS" signature="SetUp(java.lang.reflect.Method)[pri:0, instance:testcases.LoginTest@20d28811]" name="SetUp" is-config="true" duration-ms="8798" started-at="2023-04-23T07:16:14Z" finished-at="2023-04-23T07:16:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.LoginTest.InvalidLogin(java.lang.reflect.Method) throws com.codoid.products.exception.FilloException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="InvalidLogin(java.lang.reflect.Method)[pri:0, instance:testcases.LoginTest@20d28811]" name="InvalidLogin" duration-ms="1720" started-at="2023-04-23T07:16:23Z" finished-at="2023-04-23T07:16:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.LoginTest.InvalidLogin(java.lang.reflect.Method) throws com.codoid.products.exception.FilloException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLogin -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.LoginTest@20d28811]" name="TearDown" is-config="true" duration-ms="100" started-at="2023-04-23T07:16:25Z" finished-at="2023-04-23T07:16:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp(java.lang.reflect.Method)[pri:0, instance:testcases.LoginTest@20d28811]" name="SetUp" is-config="true" duration-ms="6891" started-at="2023-04-23T07:16:25Z" finished-at="2023-04-23T07:16:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.LoginTest.ValidLogin(java.lang.reflect.Method) throws com.codoid.products.exception.FilloException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ValidLogin(java.lang.reflect.Method)[pri:0, instance:testcases.LoginTest@20d28811]" name="ValidLogin" duration-ms="3643" started-at="2023-04-23T07:16:32Z" finished-at="2023-04-23T07:16:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.LoginTest.ValidLogin(java.lang.reflect.Method) throws com.codoid.products.exception.FilloException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidLogin -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.LoginTest@20d28811]" name="TearDown" is-config="true" duration-ms="93" started-at="2023-04-23T07:16:36Z" finished-at="2023-04-23T07:16:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="ReportClean()[pri:0, instance:testcases.LoginTest@20d28811]" name="ReportClean" is-config="true" duration-ms="493" started-at="2023-04-23T07:16:36Z" finished-at="2023-04-23T07:16:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportClean -->
+      </class> <!-- testcases.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
